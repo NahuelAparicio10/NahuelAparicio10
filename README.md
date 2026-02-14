@@ -42,6 +42,7 @@
 
 [🎥 Video](https://www.youtube.com/watch?v=51P_9O86KOE)
 
+
 <h3> El Sopla Juego (2025) <br></h3>
 
 <table><tr><td>
@@ -57,6 +58,7 @@
 • Gameplay systems integration for multidisciplinary team
 
 [🎥 Video](https://www.youtube.com/watch?v=avwgtVoUfO0)
+[🎮 Itchio](https://soplajuego.itch.io/elsoplajuego)
 
 <h3> Mini Engine (2024) <br></h3>
 <table><tr><td>
@@ -84,7 +86,7 @@
 • UI/UX programming  
 
 [🎥 Video](https://www.youtube.com/watch?v=Ft__aWoUaWk)  
-
+[🎮 Itchio](https://chilli-games.itch.io/blade-bounty)  
 
 <h2><br> 🧪 Tech Stack </h2>
 <h3>🛠️ Languages, Engines & Frameworks</h3>
